@@ -1,23 +1,23 @@
-# JNVSAlumniWebsite
+## JNVSAlumniWebsite
 
 The Official Website of JNV Sitamarhi Alumni Association
 
 Link: https://jnvsitamarhi.org
 
-## Branches
+### Branches
 Each branch is configured to serve website on GitHub Pages.
 
 |branch|built from|deployed to|
 |---|---|---|
 |`master`|`JNVSAlumni.github.io:master`|https://jnvsitamarhi.org|
 
-# Contribute!
+### Contribute!
 The source files can also be used for references. Contribution can be made through pull request. Feel free to fork this repo for learning as well.
 
-# Defects / New feature request
+### Defects / New feature request
 You can raise defects or request new features here: https://github.com/JNVSAlumni/JNVSAlumni.github.io/issues
 
-# License
+### License
 All files within this repo are released under the [MIT (OSI) License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](https://github.com/JNVSAlumni/JNVSAlumni.github.io/blob/master/LICENSE) stored in the root of this repo. 
 
 Third party libraries and license are summarised below:
