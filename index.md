@@ -2,40 +2,19 @@
 title: Home
 ---
 
-# Hello World
+# JNV Sitamarhi Alumni Association
 
-You can use the [editor on GitHub](https://github.com/BipulRaman/JNVSAA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Welcome to the official website !**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Jawahar Navodaya Vidyalaya Sitamarhi Alumni Association serves to enrich the alumni experience and foster benificial relationships in the Jawahar Navodaya Vidyalaya community. The motive of Alumni Association is to create a network ensuring development of JNV students and alumni leading to overall development of alma matter by providing necessary resources, guidances, motivations and financial help in their area of interest. Join us on social networks to get connected to other alumni, access the wealth of benifits, and turn on the power of your alumni membership.
 
-## Markdown
+## ABout us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Members of this alumni association are the alumni of Jawahar Navodaya Vidyalaya Sitamarhi (Bihar). Members are well connected with each other on different social networking websites specially on Facebook. Seniors and active members coordinate this Alumni Association. The coordination includes the proper functioning of Alumni Association at the Internet as well as at the school level activities conducted by Alumni like Annual Alumni Meet. The first Alumni Meet was started in December 2006 by senior batches Alumni.
 
-```md
-Syntax highlighted code block
+## What we do ?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BipulRaman/JNVSAA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Career counselling and academic suggestions to students and alumni of JNV Sitamarhi.
+- Possible financial help to alumni or students for their academic career.
+- Link up all alumni for the best of their professional careers.
+- Share educational guidelines and information among all alumni and students.
