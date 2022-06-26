@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Photos
 ---
 
 # Hello World
