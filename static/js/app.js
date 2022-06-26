@@ -9,6 +9,7 @@ $(document).ready(function () {
         $('.nav-links').click(function () { $('.mdl-layout__drawer').toggleClass('is-visible'); $('.mdl-layout__obfuscator').toggleClass('is-visible'); });
     }
     $('.demo-layout').height($(document).height());
+    $('#alumni_form_msg').hide();
 });
 
 window.onload = function () {
