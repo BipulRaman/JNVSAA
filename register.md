@@ -1,6 +1,6 @@
 ---
 title: Register
-form: partial/form.html
+form: form.html
 ---
 
 # Alumni Details Form
